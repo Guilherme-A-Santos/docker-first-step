@@ -1,0 +1,15 @@
+{
+  "name": "docker-first-step",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Guilherme-A-Santos/docker-first-step.git",
+  "author": "Guilherme-A-Santos <guilhermealves3489@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
